@@ -10,7 +10,7 @@ Architect solution (simplified)
 
 Flask API + web scraping using python BeautifulSoap
 
-Ref: https://github.com/miguelluiz/vanhack-quiz-C/blob/master/Simplified%20architecture.pptx
+Ref: https://github.com/miguelluiz/miguel_almeida_test/blob/master/test_C/Simplified%20architecture.pptx
 
 An API has been provided using Flask on http://localhost:5000/<url>
 
