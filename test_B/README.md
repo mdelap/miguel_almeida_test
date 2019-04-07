@@ -77,6 +77,47 @@ test996.py has generated output4.txt
 
 test995.py has generated output1.txt and output2.txt
 
-test994;py has generated output3.txt
+test994.py has generated output3.txt
+
+---------------------------------------------
+Note that 
+---------------------------------------------
+compare-string-version has been added to PYPI
+
+compare-string-version 0.1.0  has been added to pypi project https://pypi.org/project/compare-string-version/
+
+to install the package: pip install compare-string-version
+
+from compare_string_version import compareVersion
+
+print(compareVersion(a,b))
+
+C:\Users\milap>pip install compare_string_version
+
+Collecting compare_string_version
+
+Downloading 
+
+https://files.pythonhosted.org/packages/c6/7c/dfd82618806e71cc26c7b083ffdb5ec0b78d0cda6f1e577bd3874e0b47bd/compare_string_version-0.1.0-py3-none-any.whl
+
+Installing collected packages: compare-string-version
+
+Successfully installed compare-string-version-0.1.0
+
+C:\Users\milap>python
+
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)] on win32
+
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>> from compare_string_version import compareVersion
+
+>>> print(compareVersion('1.2', '1.1'))
+
+1.2 is greater than 1.1
+
+>>>
+
+
 
 
