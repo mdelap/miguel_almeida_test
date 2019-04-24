@@ -1,5 +1,5 @@
-# vanhack-quiz-C
-SOFTWARE DEVELOPER - TECHNICAL TEST - Question C
+quiz-C
+SOFTWARE DEVELOPER - TECHNICAL TEST - Question 
 
 PLEASE READ THE README.md.docx for more information
 
